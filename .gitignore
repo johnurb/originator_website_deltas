@@ -1,0 +1,6 @@
+seen_live.txt
+__pycache__
+/jsons/
+/archived_texts/
+banks_data.csv
+.DS_Store
